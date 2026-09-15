@@ -20,20 +20,30 @@ The Jupyter notebooks implement the principal computational analyses, including:
 
 ## Data availability
 
-The archived genotype and phenotype matrices analyzed in this study are not
-included in this repository and are not publicly available for redistribution.
+The archived genotype and phenotype matrices analyzed in this study are
+provided in `data/raw/`.
+
+The repository therefore contains the primary analytical inputs, computational
+notebooks, and principal derived outputs associated with the study.
 
 Publicly available Wm82.gnm6 soybean marker and gene-model resources used for
-physical anchoring and genome annotation were obtained from SoyBase.
+independent physical anchoring and genome annotation were obtained from
+SoyBase and are documented in the repository but are not redistributed here.
 
 ## Reproducibility
 
-The notebooks document the computational procedures used in the published
-analysis. Because the underlying archived genotype and phenotype matrices
-cannot be redistributed, this repository provides computational transparency
-but does not constitute a fully self-contained reproduction package.
+The Jupyter notebooks document the computational workflow from source-data
+quality control through linkage-map reconstruction, QTL analysis, physical
+localization, candidate-gene analysis, and generation of manuscript figures
+and tables.
+
+Software versions used for the final analyses are recorded in
+`requirements.txt`.
 
 ## Citation
 
 A version of this repository corresponding to the published study will be
 permanently archived in Zenodo and assigned a DOI.
+
+
+
