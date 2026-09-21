@@ -14,7 +14,7 @@ The Jupyter notebooks implement the principal computational analyses, including:
 - independent physical anchoring to Wm82.gnm6
 - structural-map correction
 - QTL analysis and empirical permutation testing
-- physical localization of 10%-significant QTL
+- physical localization of QTL significant at the 10% genome-wide empirical threshold
 - candidate-gene prioritization
 - manuscript figure and table generation
 
