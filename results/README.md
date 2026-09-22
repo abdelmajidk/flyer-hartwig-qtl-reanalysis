@@ -34,3 +34,18 @@ The files in this directory are derived outputs. The corresponding
 Python/Jupyter workflows are provided in the repository's `notebooks/`
 directory, and the archived genotype and phenotype matrices are provided
 under `data/`.
+
+## License and reuse
+
+Derived scientific results in this directory are made available under the
+Creative Commons Attribution 4.0 International (CC BY 4.0) license.
+
+Users may share and adapt these materials for any purpose provided appropriate
+credit is given to the source and the associated repository/publication is
+cited.
+
+License information:
+https://creativecommons.org/licenses/by/4.0/
+
+The MIT License in the repository root applies to the software and
+computational code and does not apply to these derived scientific results.
