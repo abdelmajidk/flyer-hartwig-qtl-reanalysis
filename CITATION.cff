@@ -1,1 +1,26 @@
-
+cff-version: 1.2.0
+message: "If you use this dataset or computational workflow, please cite this repository and the associated publication."
+title: "Flyer × Hartwig Soybean QTL Reanalysis"
+type: software
+authors:
+  - family-names: "Kassem"
+    given-names: "My Abdelmajid"
+  - family-names: "Knizia"
+    given-names: "Dounya"
+  - family-names: "Yuan"
+    given-names: "Jiazheng"
+  - family-names: "Meksem"
+    given-names: "Khalid"
+repository-code: "https://github.com/abdelmajidk/flyer-hartwig-qtl-reanalysis"
+license: "MIT"
+keywords:
+  - soybean
+  - Glycine max
+  - quantitative trait loci
+  - QTL mapping
+  - soybean cyst nematode
+  - Heterodera glycines
+  - sudden death syndrome
+  - recombinant inbred lines
+  - linkage mapping
+  - genomics
