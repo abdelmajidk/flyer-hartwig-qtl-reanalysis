@@ -41,3 +41,18 @@ The historical linkage-map workbook was not used as an analytical input for the
 reconstructed genetic map. Linkage relationships were reconstructed directly
 from the genotype matrix, and physical chromosome assignments were evaluated
 independently using contemporary soybean genomic resources.
+
+## License and reuse
+
+The research data distributed in this directory are made available under the
+Creative Commons Attribution 4.0 International (CC BY 4.0) license.
+
+Users may share and adapt these data for any purpose provided appropriate
+credit is given to the source and the associated repository/publication is
+cited.
+
+License information:
+https://creativecommons.org/licenses/by/4.0/
+
+The MIT License in the repository root applies to the software and
+computational code and does not apply to these research data.
