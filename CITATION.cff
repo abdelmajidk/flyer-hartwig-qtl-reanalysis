@@ -12,7 +12,6 @@ authors:
   - family-names: "Meksem"
     given-names: "Khalid"
 repository-code: "https://github.com/abdelmajidk/flyer-hartwig-qtl-reanalysis"
-license: "MIT"
 keywords:
   - soybean
   - Glycine max
