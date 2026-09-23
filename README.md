@@ -45,5 +45,16 @@ Software versions used for the final analyses are recorded in
 A version of this repository corresponding to the published study will be
 permanently archived in Zenodo and assigned a DOI.
 
+## License and reuse
 
+The Python/Jupyter software and computational code in this repository are
+licensed under the MIT License; see `LICENSE`.
+
+Research data distributed in `data/` and derived scientific outputs distributed
+in `results/` are licensed under the Creative Commons Attribution 4.0
+International (CC BY 4.0) license, as documented in the corresponding
+directory README files.
+
+External reference resources obtained from SoyBase are not redistributed in
+this repository and remain subject to the terms of their original provider.
 
